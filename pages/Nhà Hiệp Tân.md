@@ -1,0 +1,25 @@
+- Trồng cây lộc vừng và hệ kiểng trước sân 
+  Ao cá/Hồ cá/Lu cá
+- Dời cửa vào trong để tạo khoảng sân 
+  Dỡ trần làm khoảng sáng
+  
+  Quạt trần 
+  Gạch kính thông sáng
+  Kệ storage
+-
+	-
+	- Nam ghé xem nhà, có một vài góp ý:
+		- Nên xác định rõ ràng mục đích, để định ra chi phí và công sức hợp lý bỏ ra cho project này. Nếu là để cho thuê, thì nên làm nhẹ nhàng, để mau hoà vốn Mặt khác mỗi đối tượng thuê nhà có một nhu cầu khác nhau, nên việc sửa nhà trước và nhiều quá có lại có thể trở thành cầm đèn chạy trước ô tô
+		- Không nên bỏ mái phần phía trước, do nước mưa có thể tràn vào nhà
+		- Hệ tường có nứt, và thấm. 2 việc này tốn chi phí sửa chữa nhiều
+		- Hệ kèo bị mối cắn lại không đáng lo ngại, do mái tôn rất nhẹ
+		- Nếu cho thuê thì nên ốp gạch men lên 1.2 mét cho các vách tường
+		- Đục cửa sổ lấy sáng cho 2 phòng ngủ
+		- Việc chống nóng có thể xem xét một số phương án:
+			- Che thêm một lớp tole nữa
+			- Che bên trên lớp tole hiện tại bằng một lớp lưới lan
+			- Quét sơn phản quang trên mái nhà không có hiệu quả lắm
+	- Trước mắt có 2 phương án:
+		- thay tole sáng, đi điện nước, sau đó cho thuê. Tường có thể sơn bằng vôi và silka, thay vì sơn nước, cho tiết kiệm
+		- đập luôn, san ra, mai mốt làm sau. Chi phí làm nhà bằng sắt hình hiện tại khá hợp lý, khoảng 4tr/m2. Làm một căn 100 mét vuông cũng khoảng 400tr, ráng được.
+-

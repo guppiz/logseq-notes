@@ -1,0 +1,74 @@
+- **Problems**
+	- Mình kiếm chưa đủ tiền: không đủ để chi tiêu thoải mái, ko đủ để dự phòng sau này
+	- Trong VietinBank (và có lẽ banks nói chung), lao động thủ công quá nhiều, nhân viên dành thời gian chủ yếu để gõ, in hồ sơ, key vào các hệ thống thay vì tìm khách hàng mới, chăm sóc các khách hàng cũ.
+	- Lan Chi đang lớn và đang hạn chế nhiều kỹ năng: kỹ năng quan sát, kỹ năng lì đòn - bảo vệ quan điểm
+	- Trong pickleball: shot quality của mình chưa cao, thiếu consistency trong cả shot quality và mức độ tập trung. Mình muốn có một lối đánh đẹp, mềm dẻo và hiệu quả, nhưng luôn có thể dùng sức khi cần
+- **Mission**
+	- Be a Half farmer - half coder
+	- Làm một app hoặc một số app để streamline quá trình cấp tín dụng. Sức lao động của RM phải được giải phóng để làm các công việc sáng tạo, kết nối
+		- Scanner
+		- Track recorder
+		- Call manager
+	- Tạo môi trường tốt nhất để Lan Chi rèn sự lì lợm, gu cá nhân, và khả năng quan sát, EQ: thông qua apps, film ảnh, các khoá học...
+	- Luyện tập nhiều hơn để tăng shot quality, trong túi mình sẽ luôn có các chiêu cần thiết để có thể lấy ra xài một cách hiệu quả trong mọi trường hợp. Ví dụ, luôn có thể drive dọc dây dù bóng đang cao, thấp, hay xoáy.
+- **Narative**
+	- Mình vừa làm vườn/nuôi tôm để bán và trao đổi trong nhóm nhỏ của mình, vừa viết app để giúp giải phóng sức lao động của banker khỏi những công việc lắt nhắt hàng ngày
+	-
+	-
+- **Goals**
+	- Thu nhập 30 triệu một tháng, từ lương, bán hàng (app, nông sản), cho thuê
+	- Viết xong app scanner trong tháng 7/2026
+	- Viết xong app call manager trong tháng 8/2026
+	- Giúp Chi có khả năng tự học tiếng anh, văn - content creating, toán - system thinking
+	- Luyện xong skill: drive forehand, drive backhand trong 2 tháng. Tập nhìn bóng. Tập coil.
+	-
+- **Challenges**
+	- Làm về là mệt nhoài, ăn xong là 9 giờ. Mình chỉ có khoảng 1 tiếng mỗi ngày trước khi đi ngủ lúc 10h - 10h30, và thời gian buổi sáng từ 6h-6h30
+	- Chi hiện đang mất căn bản ngữ pháp tiếng anh, làm văn theo văn mẫu, khả năng tưởng tượng toán học yếu, không biết bảo vệ quan điểm cá nhân, khả năng quan sát kém, ngại thử
+- Pickleball:
+	- Thói quen đỡ phều bóng vào giữa khi bị ép
+	- Chưa đánh xong đã chạy
+	- Nhìn bóng chưa kỹ
+	- Thiếu xoay người
+	- Thiếu coil.
+-
+- **Strategies**
+	- Code mỗi ngày thành thói quen. Đây là enjoy time mà. Ngày nào lười code thì environment setup, tweak
+	- Nghiên cứu tiếp việc nuôi tôm, làm giàn mướp, trồng rau đay và
+	- Pickleball:
+		- Luyện các kỹ năng còn thiếu
+			- Drive forehand
+			- Drive backhand
+			- Quan sát bóng
+		- Bồi thêm các kỹ năng mình đang có
+			- Roll, flick
+			- Đoán trước bóng để chơi tấn công hơn, khiến đối thủ luôn trong trạng thái phải đề phòng, tốt nhất là lo lắng
+			- :LOGBOOK:
+			  CLOCK: [2026-07-11 Sat 07:28:30]
+			  :END:
+	- Study with me: ba code con học
+		- Tiếng anh: từ vựng và ngữ pháp
+		- Content creating: mình muốn khi đọc xong người ta sẽ cảm thấy gì
+		- Toán: tăng khả năng tưởng tượng - number vision. Dạy tính nhẩm.
+		- Lì đòn hơn, bảo vệ quan điểm
+- **Projects**
+	- Farmer
+		- Làm giàn
+		- Làm khoảnh riêng trồng
+			- Mồng tơi
+			- Rau đay
+			- Rau nước
+			- Rau thơm: Quế, răm, húng cây
+	- Coder
+		- Pi coding team: đây sẽ là trợ thủ viết code của mình. Mình ra đề bài. Pi build, design, market (mô hình công ty 1 người của **Polsia**)
+		- Scanner app: scan: pdf, QR - trích xuất (CCCD, sổ đỏ), auto send
+		- Caller app: lưu thông tin người gọi - là khách hàng
+		- Tool báo cáo: Tự động hoá hơn nữa việc làm BC nợ
+			- BC nhóm 2
+				- Tự xuất full kết quả, không cần tác nghiệp thủ công
+				- Trực quan hoá quá trình chạy báo cáo
+			- BC 10 ngày
+				- Cải thiện tốc độ
+				- Tự động hoá quá trình import: lãi suất, VCRM, CTLN14. Thay thế CTLN 14 bằng DCRS.
+					- VCRM cif-list: thêm 1 sheet list ra các conflict phòng ban
+					-

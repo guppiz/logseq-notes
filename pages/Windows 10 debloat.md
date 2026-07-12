@@ -1,0 +1,12 @@
+- Tải bộ cài chuẩn của windows 10. Thử ver 1903, hoặc 15xx, 17xx nếu thấy nặng
+- Chỉnh sửa bằng NLite [https://www.nliteos.com](https://www.nliteos.com)
+- Stop các service không cần thiết
+- Dùng **Autorunsx64** để tắt các chức năng nền không cần thiết
+- Dùng **Wu10Man** để tắt auto update
+- Nếu có các app không remove được, có thể thử remove bằng **WindowsAppBoss** hoặc các script powershell trên mạng
+- Cài các phần mềm cơ bản
+	- Unikey **with auto complete**
+	- 7zip
+	- Office 2016
+- Dùng AOMEI **backupper** hoặc **Macrium Reflect** để backup bộ cài này và restore khi cần
+  id:: 6955c127-32c1-47c4-bedd-d81fd567a211

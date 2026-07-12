@@ -1,0 +1,6 @@
+- [[31-05-2023]]
+	- chú bình trả tiền 57,7tr
+	  Trả mẹ 60tr
+	  Còn thiếu mẹ 55
+	  Lấy của mẹ 30 cho Vy mượn, thiếu mẹ 85
+	  Chuyển 30tr còn lại sang tài khoản VietinBank

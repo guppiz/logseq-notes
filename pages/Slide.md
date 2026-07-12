@@ -1,0 +1,3 @@
+- Mẫu file thuyết trình theo nhận diện thương hiệu của các ngân hàng, công ty lớn có niêm yết
+- gpt dịch và embed các video youtube vào site
+- nghiên cứu canva và ai generating themes
